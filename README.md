@@ -3,7 +3,6 @@ title: AI-Powered Chatbot
 technologies: Python, Gemini API, LangChain
 ai_enhanced: true
 status: completed
-thumbnail: https://via.placeholder.com/300x200/10b981/ffffff?text=AI+Chatbot
 link: https://github.com/muazalamri/Ai-chatbot
 ---
 
